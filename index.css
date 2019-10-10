@@ -1,0 +1,62 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+h1{
+  font-family: 'Raleway', sans-serif;
+}
+
+#main{
+  background-image: url('./images/bg-curve-desktop.svg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+
+#subscribe{
+  background-color: hsl(238, 22%, 44%);
+  color: #fff;
+
+
+}
+
+#footer{
+  background-color: hsl(243, 87%, 12%);
+color:#fff;
+}
+
+.text-grey{
+  color:hsl(0, 0%, 75%);
+}
+
+.text-white{
+  color:#fff;
+}
+
+.Fmt{
+  margin-top:6rem;
+}
+
+.bluish{
+  width: 28%;
+  color: hsl(170, 45%, 43%);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  padding-bottom: 1px;
+}
+
+.pos{
+  position: relative;
+  left: 21%;
+  bottom:2rem;
+}
+
+.logos{
+
+  filter: invert(200%);
+}
+
+.pd-top{
+  padding-top: 10rem;
+}
